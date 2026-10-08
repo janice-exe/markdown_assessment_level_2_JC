@@ -29,4 +29,21 @@ Welcome to **Byte Bites,** the first food truck run *entirely* by student coders
     }
     ```
 
-    
+--- 
+
+>## What Customers Are Saying
+
+> "best chopped cheese in East Harlem, and the **free cookie** deal is *genuis!*"
+
+---
+## Find Us Online
+
+Follow our daily location on [instagram](link), or read our reviews on [Yelp](link).
+
+Want to build an app like ours? Start learning here:
+- [freeCodeCamp](link)
+- [MDN web docs](link)
+
+---
+
+`git push orgin main` - the command we run everytime we add a new item to the menu!
