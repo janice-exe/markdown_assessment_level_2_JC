@@ -1,5 +1,6 @@
 # Grand Opening: The Byte Bites Food Truck
-![coffee_picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToVzvPAQY6pbiF6LgkE2P93pR8x94_rtsRzX8d8ZcEvQ&s=10)
+![coffee_picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTpLXSEXazViBzSSIAfUMoq7GLv3eCw014sHRTr0gJg&s=10)
+
 Welcome to **Byte Bites,** the first food truck run *entirely* by student coders! We serve fresh food in the morning and write code at night.
 
 ---
@@ -15,7 +16,7 @@ Welcome to **Byte Bites,** the first food truck run *entirely* by student coders
 
     ---
 
-    ## How our Ordering App Works
+    ## How Our Ordering App Works
 
     Every order is added up by our app. We use the `total` variable to keep track of the price:
     ```
@@ -32,17 +33,16 @@ Welcome to **Byte Bites,** the first food truck run *entirely* by student coders
 --- 
 
 >## What Customers Are Saying
-
-> "best chopped cheese in East Harlem, and the **free cookie** deal is *genuis!*"
+> "Best chopped cheese in East Harlem, and the **free cookie** deal is *genuis!*"
 
 ---
 ## Find Us Online
 
-Follow our daily location on [instagram](link), or read our reviews on [Yelp](link).
+Follow our daily location on [Instagram](link), or read our reviews on [Yelp](link).
 
 Want to build an app like ours? Start learning here:
 - [freeCodeCamp](link)
-- [MDN web docs](link)
+- [MDN Web Docs](link)
 
 ---
 
